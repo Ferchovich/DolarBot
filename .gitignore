@@ -7,3 +7,8 @@ Pipfile:*
 Pipfile.lock:*
 README.md:*
 
+src/utils/func.py:Zone.Identifier
+src/test2.py:Zone.Identifier
+src/test.py:Zone.Identifier
+src/main.py:Zone.Identifier
+src/utils/config.json:Zone.Identifier
